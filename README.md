@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **SYTiffany/SYTiffany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome to My GitHub Profile! 👋
 
 ## Bio
-Hi, I'm Tiffany! I'm passionate about building innovative solutions and contributing to open-source projects. I love collaborating with others and continuously learning new technologies.
+I'm Tiffany! I'm passionate about building innovative solutions and contributing to open-source projects. I love collaborating with others and continuously learning new technologies.
 
 ## Projects
 Here are some of my notable projects:
@@ -27,14 +26,11 @@ Here are some of my notable projects:
 
 ## Technical Skills
 - **Languages:** Python, SQL, R, Java, JavaScript, HTML/CSS
-- **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools & Platforms:** Git, Docker, AWS, GitHub Actions
 
 ## Social Links
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 📧 [Email](mailto:tinayang562@gmail.com)
-- 🌐 [Portfolio](https://yourportfolio.com)
-
 ---
 
 Feel free to explore my repositories and don't hesitate to reach out!
